@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "523973783362",
+    "project_id": "facedetection-f14a2",
+    "storage_bucket": "facedetection-f14a2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523973783362:android:34b83063b528231a4222db",
+        "android_client_info": {
+          "package_name": "com.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523973783362-2diomb7hhtt6c384dmfognbu1t0l701p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.facedetection",
+            "certificate_hash": "2e0f1e88675a6ed9515f033ac91996d1b6f70aa4"
+          }
+        },
+        {
+          "client_id": "523973783362-9ociij8rptikd6r5lsaiq4j4c6p55emc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUgpAiHud50JA5cPSxGhSZ2O0AJaOJhlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523973783362-9ociij8rptikd6r5lsaiq4j4c6p55emc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
